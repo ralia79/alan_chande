@@ -26,6 +26,7 @@ https://brsapi.ir/FreeTsetmcBourseApi/Api_Free_Gold_Currency.json
    pip install tkinter requests
 
 3. Run the Python script:
+    ```bash
     python main.py
     
 The application will launch and display a semi-transparent window with real-time gold and currency prices.
